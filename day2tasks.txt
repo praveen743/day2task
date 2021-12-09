@@ -1,0 +1,36 @@
+1.  5 difference between Browser JS(console) v Nodejs
+
+Nodejs:
+	*used for server-side application
+	*executed outside the browser
+	*Node.js has full system access to read and write in file
+	*it can only run in v8 engine
+	* moduleing is mandatory 
+
+Browser JS:
+	*used for client-side applications
+	*executed inside the browser only
+	*it has limited access
+	*it can run in any engine
+	* moduleing is not mandatory 
+
+
+2.Execute the below code and write your description in txt file
+
+typeof(1)- it is a number
+
+typeof(1.1)-it is also a number
+
+typeof('1.1')-it is string 
+
+typeof(true)-it is a boolean value
+
+typeof(null)-it is a object
+
+typeof(undefined)-it is undefined
+
+typeof([])- in js array is also consider as object
+
+typeof({})-it is also a object
+
+typeof(NaN)-NaN means not an number but the type is number
